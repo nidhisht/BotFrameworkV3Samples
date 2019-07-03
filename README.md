@@ -26,7 +26,7 @@ Activity is the object used to communicate between a user and a bot.
 Dialog provide way to manage conversation with user
 
 #### What are different ways to save Bot state?
-1. In Memory storage (only for Dev)
+1. In Memory storage (Dev - local testing only)
 2. Azure Blob storage
 3. Azure Cosmos DB
 
