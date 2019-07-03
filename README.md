@@ -23,7 +23,7 @@ It sits between bot and channel. It translates channel json into activity.
 Activity is the object used to communicate between a user and a bot.
 
 #### What are Dialogs?
-Dialog breaks up conversations into smaller pieces.
+Dialog provide way to manage conversation with user
 
 #### What are different ways to save Bot state?
 1. In Memory storage (only for Dev)
