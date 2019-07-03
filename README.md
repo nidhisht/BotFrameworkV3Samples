@@ -9,10 +9,17 @@ Channel is medium in which user communicates with Bot.
 #### What are different channels available?
 Skype, Facebook messenger, MS teams, slack, SMS
 
-#### How bot interact with channel?
+#### How bot interacts with channel?
 Channel exposes API. 
 It send messages out when user types in. 
 It receives messages whenever it gets reply.
 Bot exposes an API.
 Bot receives messages from user through this API.
+
+#### What is connector Service?
+It sits between bot and channel. It translates channel json into activity.
+
+#### What is activity?
+Activity is the object used to communicate between a user and a bot.
+
 
