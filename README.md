@@ -22,4 +22,24 @@ It sits between bot and channel. It translates channel json into activity.
 #### What is activity?
 Activity is the object used to communicate between a user and a bot.
 
+#### What are Dialogs?
+Dialog breaks up conversations into smaller pieces.
+
+#### What are different ways to save Bot state?
+1. In Memory storage (only for Dev)
+2. Azure Blob storage
+3. Azure Cosmos DB
+
+#### What are the type of Bot data?
+1. User Data
+2. Conversation Data
+3. Private Conversation Data
+
+#### What are the different type of activity?
+1. Message
+2. DeleteUserData
+3. ConversationUpdate
+4. ContatRelationUpdate
+5. Typing
+6. Ping
 
