@@ -1,6 +1,6 @@
 # Form Flow Samples
 
-#### What is Form Flow?
+#### Why Form Flow?
 Form Flow helps to reduce effort to build bot.
 
 #### How Form Flow works?
