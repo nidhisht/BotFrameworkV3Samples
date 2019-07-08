@@ -1,7 +1,25 @@
+# Form Flow Samples
 
-# FormFlow Samples
+#### What is Form Flow?
+Form Flow helps to reduce effort to build bot.
 
-#### Important Files:
+#### How Form Flow works?
+Form Flow uses POCO model and creates series of questions from it.
+
+#### What are the different types of attributes
+1. Describe
+2. Prompt
+3. Pattern
+4. Numeric
+5. Term
+
+#### Advantage:
+1. Form Flow allow user to go back and change the answer (allow navigation between steps)
+2. Intelligent enough to understand 1 and one
+3. Intelligent enough to understand now or tomorrow as datetime
+4. Allow to bind user answers to object model
+
+## Important Files:
 1. /Controllers/MessageController.cs
 2. /Models/BugReport.cs
 
