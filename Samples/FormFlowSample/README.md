@@ -4,7 +4,7 @@
 Form Flow helps to reduce effort to build bot.
 
 #### How Form Flow works?
-Form Flow uses POCO model and creates series of questions from it.
+Form Flow uses POCO* model and creates series of questions from it.
 
 ## Important components of Form Flow:
 1. Attributes
@@ -42,3 +42,6 @@ Form Flow uses POCO model and creates series of questions from it.
                 OnCompletion(onComplete).
                 Build();
         }
+
+
+* POCO - Plain Old CLR Object
