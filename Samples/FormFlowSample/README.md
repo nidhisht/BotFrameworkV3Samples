@@ -2,8 +2,8 @@
 # FormFlow Samples
 
 #### Important Files:
-1. MessageController.cs
-2. BugReport.cs
+1. /Controllers/MessageController.cs
+2. /Models/BugReport.cs
 
 #### What to look in /Controllers/MessagesController.cs?
         internal static IDialog<BugReport> MakeRootDialog()
