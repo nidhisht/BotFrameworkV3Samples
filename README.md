@@ -3,7 +3,7 @@
 ## Getting Started
 1. Download Bot Application Project Template V3.
 2. Save Zip file to Visual Studio 2017 template directory 
-   (C:\Users\<user>\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#\)
+   * (C:\Users\<user>\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#\)
 
 https://social.technet.microsoft.com/wiki/contents/articles/36442.microsoft-bot-framework-build-your-first-bot-application.aspx
 
