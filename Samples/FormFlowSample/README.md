@@ -6,6 +6,11 @@ Form Flow helps to reduce effort to build bot.
 #### How Form Flow works?
 Form Flow uses POCO model and creates series of questions from it.
 
+## Important components of Form Flow:
+1. Attributes
+2. Custom business block
+3. Form Builder class
+
 #### What are the different types of attributes
 1. Describe
 2. Prompt
