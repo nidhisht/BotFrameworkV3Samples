@@ -14,15 +14,15 @@ It utilizes interactive machine learning
 2. Entities
 3. Utterances
 
-### Intents (**VERB**)
+### Intents (*VERB*)
 Identifies what action you want the bot to take.
 
-### Entity (**NOUN**)
+### Entity (*NOUN*)
 Identifies what things your bot taking action on
 Entities are shared across the intents
 
-### Utterances (**Sentances**)
-Identifies phrases to link intents and entities
+### Utterances (*Sentences*)
+Sentences uses intents and entities
 
 ### What are types of entities?
 1. Simple
