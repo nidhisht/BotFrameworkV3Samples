@@ -14,3 +14,9 @@ It utilizes interactive machine learning
 2. Entities
 3. Utterances
 
+### Intents (*VERB*)
+Identify what action you want the bot to take.
+
+### Entity (*NOUN*)
+Identify what things your bot taking action on
+Entities are shared across the intent
